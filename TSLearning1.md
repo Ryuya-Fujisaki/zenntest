@@ -1,5 +1,5 @@
 ---
-title: "TypeScript リテラル型おさらい"
+title: "TypeScript リテラル型のおさらい"
 emoji: "👻"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["TS"]
